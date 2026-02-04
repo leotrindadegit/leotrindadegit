@@ -1,35 +1,34 @@
-# 👋 Hi, I'm Leonardo Trindade
+# Leonardo Trindade
 
-🚀 Full Stack Developer specialized in **Java** and **Angular**, focused on building scalable, secure, and high-performance applications.
-
-I have experience developing robust backend systems with Java (Spring Boot), creating modern and responsive frontends with Angular, and integrating APIs, databases, and cloud services. I enjoy turning complex problems into clean, efficient, and maintainable solutions.
-
----
-
-## 💻 Tech Stack
-
-- **Backend:** Java | Spring Boot | REST APIs | Microservices  
-- **Frontend:** Angular | TypeScript | HTML | CSS  
-- **Database:** PostgreSQL | MySQL | MongoDB  
-- **DevOps & Tools:** Docker | Git | GitHub | CI/CD  
-- **Others:** Clean Architecture | SOLID | Agile (Scrum)
+Full Stack Developer specialized in **Java** and **Angular**, with experience in designing, developing, and maintaining scalable enterprise applications.  
+Focused on clean architecture, performance, and long-term maintainability.
 
 ---
 
-## 🌐 Connect with me
+## Tech Stack
 
-- 💼 LinkedIn: [https://www.linkedin.com/in/seu-linkedin](https://www.linkedin.com/in/seu-linkedin)
-- 📸 Instagram: [https://www.instagram.com/seu-instagram](https://www.instagram.com/seu-instagram)
-
----
-
-## 📌 What you'll find here
-
-✔️ Full Stack projects (Java & Angular)  
-✔️ APIs and backend services  
-✔️ Clean code and best practices  
-✔️ Continuous learning and experiments  
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
 ---
 
-⭐ Feel free to explore my repositories and connect with me!
+## About
+
+- Full Stack development with **Java (Spring Boot)** and **Angular**
+- RESTful APIs and enterprise system integrations
+- Relational and NoSQL databases
+- CI/CD pipelines and containerized environments
+- Agile methodologies and software best practices
+
+---
+
+## Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seu-linkedin)
+
+---
