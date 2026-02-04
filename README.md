@@ -1,16 +1,35 @@
-## Hi there 👋
+# 👋 Hi, I'm Leonardo Trindade
 
-<!--
-**leotrindadegit/leotrindadegit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Full Stack Developer specialized in **Java** and **Angular**, focused on building scalable, secure, and high-performance applications.
 
-Here are some ideas to get you started:
+I have experience developing robust backend systems with Java (Spring Boot), creating modern and responsive frontends with Angular, and integrating APIs, databases, and cloud services. I enjoy turning complex problems into clean, efficient, and maintainable solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 💻 Tech Stack
+
+- **Backend:** Java | Spring Boot | REST APIs | Microservices  
+- **Frontend:** Angular | TypeScript | HTML | CSS  
+- **Database:** PostgreSQL | MySQL | MongoDB  
+- **DevOps & Tools:** Docker | Git | GitHub | CI/CD  
+- **Others:** Clean Architecture | SOLID | Agile (Scrum)
+
+---
+
+## 🌐 Connect with me
+
+- 💼 LinkedIn: [https://www.linkedin.com/in/seu-linkedin](https://www.linkedin.com/in/seu-linkedin)
+- 📸 Instagram: [https://www.instagram.com/seu-instagram](https://www.instagram.com/seu-instagram)
+
+---
+
+## 📌 What you'll find here
+
+✔️ Full Stack projects (Java & Angular)  
+✔️ APIs and backend services  
+✔️ Clean code and best practices  
+✔️ Continuous learning and experiments  
+
+---
+
+⭐ Feel free to explore my repositories and connect with me!
