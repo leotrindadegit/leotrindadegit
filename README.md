@@ -2,7 +2,7 @@
 
 ### Full Stack Software Engineer | Java | Spring Boot | React | Angular | Cloud Solutions
 
-I'm a Full Stack Software Engineer with international experience working on software projects for companies in Israel and Brazil.
+I'm a Full Stack Software Developer with international experience working on software projects for companies in Israel and Brazil.
 
 Passionate about building scalable, secure, and high-performance applications, I specialize in designing modern architectures, developing robust backend services, and creating intuitive user experiences.
 
