@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Leonardo Trindade
 
-### Full Stack Software Engineer | Java | Spring Boot | React | Angular | Cloud Solutions
+### Full Stack Software Developer | Java | Spring Boot | React | Angular | Cloud Solutions
 
 I'm a Full Stack Software Developer with international experience working on software projects for companies in Israel and Brazil.
 
